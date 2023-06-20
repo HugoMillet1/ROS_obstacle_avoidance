@@ -1,0 +1,6 @@
+<launch>
+  <param name="goal_x" value="-2" />
+  <param name="goal_y" value="-5" />
+  <node name="mpoa" pkg="assignment1" type="main.py" output="screen">
+  </node>
+</launch>

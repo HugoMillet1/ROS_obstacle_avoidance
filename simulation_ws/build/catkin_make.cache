@@ -1,0 +1,2 @@
+search_and_rescue
+-DCATKIN_DEVEL_PREFIX=/home/user/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install -G Unix Makefiles
